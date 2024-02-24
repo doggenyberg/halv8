@@ -71,7 +71,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 50px 30px;
+  padding: 30px;
   width: 380px;
   background-color: rgba(223, 221, 221, 0.923);
   border-radius: 10px;
